@@ -15,8 +15,8 @@ Al final de la plantilla encontrará algunos ejemplos para enriquecer su informe
 # Práctica 1: TÍTULO PRÁCTICA
 
 ### Integrantes
-- **PRIMER INTEGRANTE** - Código
-- **SEGUNDO INTEGRANTE** - Código
+- **PRIMER INTEGRANTE** - 2224031
+- **SEGUNDO INTEGRANTE** - 2192274
 
 Escuela de Ingenierías Eléctrica, Electrónica y de Telecomunicaciones  
 Universidad Industrial de Santander
