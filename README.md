@@ -12,11 +12,11 @@ Al final de la plantilla encontrará algunos ejemplos para enriquecer su informe
 - Si emplea referencias disponibles en línea, agregue los hipervínculos respectivos.  
 
 ---
-# Práctica 1: TÍTULO PRÁCTICA
+# Práctica 1: Mediciones de Potencia y Frecuencia
 
 ### Integrantes
-- **PRIMER INTEGRANTE** - Código
-- **SEGUNDO INTEGRANTE** - Código
+- **Juan David Gil Silva** - 2224031
+- **Christian Camilo Ellis Jimenez** - Código
 
 Escuela de Ingenierías Eléctrica, Electrónica y de Telecomunicaciones  
 Universidad Industrial de Santander
