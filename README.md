@@ -22,7 +22,7 @@ Escuela de Ingenierías Eléctrica, Electrónica y de Telecomunicaciones
 Universidad Industrial de Santander
 
 ### Fecha
-31 de diciembre de 2030
+06 de Marzo de 2025
 
 ---
 
@@ -37,9 +37,9 @@ Uso de IA: [Indicar si se usó IA y para qué aspectos específicos, por ejemplo
 ## Contenido
 
 ### Resumen
-Descripción en no más de 150 palabras del contenido de la práctica. Debe ser conciso y brindar una idea clara sobre el trabajo realizado y sus conclusiones.
+En esta práctica el objetivo es aprender a usar las herramientas que tenemos en el laboratorio, un software definido por radio (SDR)GNU Radio, equipos de medición como el USRP2920, el osciloscopio R&S RTB2004 y el analizador de espectros R&S FPC1000. Se llevaron a cabo tres actividades: Revisión de Especificaciones de los Equipos, Simulación de Señales en GNU Radio, Transmisión y Medición de Señales con el USRP 2920. Con estas actividades analizamos y comparamos la simulación con la medición real de parámetros clave cómo el ancho de banda(BW), piso de ruido, etc. 
 
-**Palabras clave:** de 2 a 5 palabras clave. 
+**Palabras clave:** SDR, GNU Radio, BW 
 
 ### Introducción
 Cada práctica contará con preguntas orientadoras para la elaboración de la introducción. Por ejemplo: 
@@ -52,6 +52,10 @@ Cada práctica contará con preguntas orientadoras para la elaboración de la in
 - ¿Qué pasa cuando se asigna una frecuencia de muestreo inadecuada?
 
 ### Procedimiento
+### Actividad 1
+Revisamos las especificaciones de los equipos que tenemos en el laboratorio y estas fueron las 5 que consideramos que son las mas importantes de cada uno:
+USRP-2920
+- Frequency Range 50MHz to 2.2 GHz
 Debe basarse en las acciones efectivamente realizadas durante el laboratorio, describiendo los procesos realizados y los resultados obtenidos. Para cada práctica se pueden brindar preguntas orientadoras o pasos a seguir para establecer lo que se espera lograr/estudiar/analizar/obtener/comparar. Por ejemplo:
 - Describa los procesos realizados en el laboratorio  y los resultados obtenidos.
 - ¿Cómo se alcanza el límite de Nyquist y que pasa cuando se disminuye de este?
