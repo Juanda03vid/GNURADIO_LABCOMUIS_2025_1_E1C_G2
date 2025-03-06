@@ -55,7 +55,13 @@ Cada práctica contará con preguntas orientadoras para la elaboración de la in
 ### Actividad 1
 Revisamos las especificaciones de los equipos que tenemos en el laboratorio y estas fueron las 5 que consideramos que son las mas importantes de cada uno:
 USRP-2920
-- Frequency Range 50MHz to 2.2 GHz
+- Frequency Range 50MHz to 2.2 GHz.
+- Maximum instantaneous real-time bandwidth:
+  16-bit sample width 20 MHz.
+  8-bit sample width 40 MHz.
+- 
+
+  
 Debe basarse en las acciones efectivamente realizadas durante el laboratorio, describiendo los procesos realizados y los resultados obtenidos. Para cada práctica se pueden brindar preguntas orientadoras o pasos a seguir para establecer lo que se espera lograr/estudiar/analizar/obtener/comparar. Por ejemplo:
 - Describa los procesos realizados en el laboratorio  y los resultados obtenidos.
 - ¿Cómo se alcanza el límite de Nyquist y que pasa cuando se disminuye de este?
