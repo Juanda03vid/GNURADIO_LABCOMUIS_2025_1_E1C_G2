@@ -57,10 +57,18 @@ Revisamos las especificaciones de los equipos que tenemos en el laboratorio y es
 USRP-2920
 - Frequency Range 50MHz to 2.2 GHz.
 - Maximum instantaneous real-time bandwidth:
-  16-bit sample width 20 MHz.
-  8-bit sample width 40 MHz.
-- 
+  16-bit sample width 20 MHz y 8-bit sample width 40 MHz.
+- Digital-to-analog converter (DAC) 2 channels, 400 MS/s, 16 bit.
+- Gain range 0dB to 31dB.
+- Total power, typical operation (
+Typical 12 W to 15 W,
+Maximum).
 
+Osciloscopio R&S RTB2004
+-Number of oscilloscope channels 2.
+-Bandwidth in MHz 50, 70, 100, 200, 300.
+-Max. sampling rate in Gsample/s 1/channel, 2 interleaved.
+ 
   
 Debe basarse en las acciones efectivamente realizadas durante el laboratorio, describiendo los procesos realizados y los resultados obtenidos. Para cada práctica se pueden brindar preguntas orientadoras o pasos a seguir para establecer lo que se espera lograr/estudiar/analizar/obtener/comparar. Por ejemplo:
 - Describa los procesos realizados en el laboratorio  y los resultados obtenidos.
