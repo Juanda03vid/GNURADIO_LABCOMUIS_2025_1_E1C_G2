@@ -53,8 +53,8 @@ Cada práctica contará con preguntas orientadoras para la elaboración de la in
 
 ### Procedimiento
 ### Actividad 1
-Revisamos las especificaciones de los equipos que tenemos en el laboratorio y estas fueron las 5 que consideramos que son las mas importantes de cada uno
-###USRP-2920
+Revisamos las especificaciones de los equipos que tenemos en el laboratorio y estas fueron las 5 que consideramos que son las mas importantes de cada uno.
+### USRP-2920
 - Frequency Range 50MHz to 2.2 GHz.
 - Maximum instantaneous real-time bandwidth:
   16-bit sample width 20 MHz y 8-bit sample width 40 MHz.
@@ -64,10 +64,26 @@ Revisamos las especificaciones de los equipos que tenemos en el laboratorio y es
 Typical 12 W to 15 W,
 Maximum).
 
-###Osciloscopio R&S RTB2004
--Number of oscilloscope channels 2.
--Bandwidth in MHz 50, 70, 100, 200, 300.
--Max. sampling rate in Gsample/s 1/channel, 2 interleaved.
+### Osciloscopio R&S RTB2004
+- Number of oscilloscope channels 2.
+- Bandwidth in MHz 50, 70, 100, 200, 300.
+- Max. sampling rate in Gsample/s 1/channel, 2 interleaved.
+- MSO 8 channels, 1 Gsample/s.
+- Generator(s) 1 generator, 4-bit pattern generator.
+
+### Analizador de Espectros R&S FPC1000
+- Rango de frecuencias R&S®FPC1000 de 5 kHz a 1 GHz.
+- Ancho de banda de resolución de 1 Hz a 3 MHz en secuencia de 1/3.
+- Nivel de ruido promedio visualizado (DANL) Atenuación de RF 0 dB, terminaciónde 50 Ω, ancho de banda de resolución (RBW) = 100 Hz, VBW = 10 Hz, detector de muestra, escala logarítmica, normalizado a 1 Hz.
+- Resolución de frecuencia 1 Hz.
+- Respuesta en frecuencia (de +20°C a +30°C) 100 kHz ≤ f < 10 MHz.
+
+  ### Actividad2
+  Utilizamos GNU Radio para simular funciones y ver cómo se comoprtan en el tiempo y la frecuencia. Generamos las siguientes señales, dientes de sierra, cuadrada, triangular, coseno y seno.
+
+  ### Actividad3
+  
+
  
   
 Debe basarse en las acciones efectivamente realizadas durante el laboratorio, describiendo los procesos realizados y los resultados obtenidos. Para cada práctica se pueden brindar preguntas orientadoras o pasos a seguir para establecer lo que se espera lograr/estudiar/analizar/obtener/comparar. Por ejemplo:
