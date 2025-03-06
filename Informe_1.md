@@ -80,9 +80,11 @@ Maximum).
 
   ### Actividad2
   Utilizamos GNU Radio para simular funciones y ver cómo se comoprtan en el tiempo y la frecuencia. Generamos las siguientes señales, dientes de sierra, cuadrada, triangular, coseno y seno.
+  
 
   ### Actividad3
-  
+ Para transmitir la señal al USRP, desde el flujograma que tenemos en GNU Radio activamos el bloque USRP Sink ya que este bloque es el que envía la señal al USRP, simulamos y tomamos dos muestras cambiando la frecuencia de muestreo de 10kHz a 20kHz. 
+![Señal Coseno con samp_rate de 10kHz](C:\Users\USER\GNURADIO_LABCOMUIS_2025_1_E1C_G2\practica1\EVIDENCIAS\Actividad2\PArte3_1_10k.png)
 
  
   
